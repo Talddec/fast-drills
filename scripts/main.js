@@ -1,6 +1,6 @@
 Events.on(ClientLoadEvent, b  => {
-Blocks.mechanicalDrill.drillTime=40
-Blocks.pneumaticDrill.drillTime=30
-Blocks.laserDrill.drillTime=20
-Blocks.blastDrill.drillTime=15
+Blocks.mechanicalDrill.drillTime=0.05
+Blocks.pneumaticDrill.drillTime=0.05
+Blocks.laserDrill.drillTime=0.05
+Blocks.blastDrill.drillTime=0.05
 });
